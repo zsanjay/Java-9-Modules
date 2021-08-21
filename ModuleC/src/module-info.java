@@ -1,0 +1,4 @@
+module moduleC {
+	
+	exports pkgC;
+}
